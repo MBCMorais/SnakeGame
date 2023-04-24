@@ -1,5 +1,5 @@
 ﻿Snake
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Code\Repos\Snake\Snake\App.xaml
 11407045341
 
-10465158872
+8-2144095413
 1941709816142
 MainWindow.xaml;
 
-True
+False
 
